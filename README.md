@@ -6,6 +6,7 @@ During the implementation of a penetration testing project, unauthorized access 
 
 ## Send To noAuth
 
-![image-20251216103628122](C:\Users\IR\Desktop\1\assets\image-20251216103628122.png)
+![image-20251216103628122](assets\image-20251216103628122.png)
 
-![image-20251216103130427](C:\Users\IR\Desktop\1\assets\image-20251216103130427.png)
+
+![image-20251216103130427](assets\image-20251216103130427.png)
